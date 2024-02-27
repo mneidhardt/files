@@ -30,6 +30,5 @@ public class MergeFiles {
 				}
 			}
 		}
-		System.out.println("DONE.");
 	}
 }
